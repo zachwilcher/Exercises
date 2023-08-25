@@ -1,0 +1,6 @@
+This currently does not compile.
+I believe it's an issue with the template not
+being "created" for int types.
+
+Probably can be fixed by declaring a class template
+with integer as the type in matrix.h
